@@ -7,4 +7,5 @@
 @import './components/banner.css';
 @import './components/section.css';
 @import './components/skill-tech.css';
-@import "./components/progress-bar.css";
+@import './components/progress-bar.css';
+@import './components/wrapper-skill.css';
